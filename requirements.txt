@@ -1,4 +1,6 @@
 ftfy
+loralib
+packaging
 regex
 tqdm
 torch
